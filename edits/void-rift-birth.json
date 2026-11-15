@@ -48,5 +48,41 @@
       "black_start:21.1 black_end:21.766667 black_duration:0.666667"
     ],
     "notes": "Final fade to black and held final caption are intentional; the return to gameplay after the fade has been removed."
-  }
+  },
+  "gif_variants": [
+    {
+      "filename": "void-rift-birth.gif",
+      "bytes": 28422804,
+      "sha256": "823ad06fa4d58fa214aa5d3ded302eb70c8abe4cf0d91a66228cf25e2087be52",
+      "width": 960,
+      "height": 480,
+      "frames": 426,
+      "duration_ms": 21800,
+      "loop": 0,
+      "unique_frames": 426,
+      "fps_before_frame_merging": 20,
+      "gifsicle_lossy_strength": 20,
+      "palette_colors_per_frame": 256,
+      "palette_mode": "individual frame palettes",
+      "dither": "sierra2_4a",
+      "path": "gif/void-rift-birth.gif"
+    },
+    {
+      "filename": "void-rift-birth-light.gif",
+      "bytes": 12282837,
+      "sha256": "5ca1d3811f956d26c2f63f38aaab218575240ac9b9acbde027a6f3d8face8df2",
+      "width": 720,
+      "height": 360,
+      "frames": 321,
+      "duration_ms": 21800,
+      "loop": 0,
+      "unique_frames": 321,
+      "fps_before_frame_merging": 15,
+      "gifsicle_lossy_strength": 30,
+      "palette_colors_per_frame": 256,
+      "palette_mode": "individual frame palettes",
+      "dither": "sierra2_4a",
+      "path": "gif/void-rift-birth-light.gif"
+    }
+  ]
 }

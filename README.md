@@ -14,6 +14,8 @@
 
 ![Void Rift — сцена рождения шторма](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/posters/void-rift-birth.jpg)
 
+GIF этой сцены для CurseForge: [960×480, 20 кадров/с, 28.42 MB](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth.gif) или [720×360, 15 кадров/с, 12.28 MB](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth-light.gif). Оба варианта содержат полные 21,8 секунды с бесконечным повтором. [Готовые вставки](CURSEFORGE.md).
+
 ## Файлы
 
 | Шторм | Исходная длительность | MP4 без звука | WebP 1280×720, 30 fps | WebP 960×540, 20 fps | GIF 960×540, 20 fps | GIF 640×360, 15 fps |
