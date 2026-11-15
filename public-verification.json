@@ -205,5 +205,31 @@
     "content_length": "54062",
     "sha256_matches": true,
     "sha256": "aea6898d1e75498ad7a466e3bf30434fa24eb4890f1c45c0e53a54177ccfe1cf"
+  },
+  {
+    "path": "gif/void-rift-birth.gif",
+    "url": "https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "28422804",
+    "sha256_matches": true,
+    "sha256": "823ad06fa4d58fa214aa5d3ded302eb70c8abe4cf0d91a66228cf25e2087be52",
+    "frames": 426,
+    "duration_ms": 21800,
+    "loop": 0,
+    "all_frames_decoded": true
+  },
+  {
+    "path": "gif/void-rift-birth-light.gif",
+    "url": "https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth-light.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "12282837",
+    "sha256_matches": true,
+    "sha256": "5ca1d3811f956d26c2f63f38aaab218575240ac9b9acbde027a6f3d8face8df2",
+    "frames": 321,
+    "duration_ms": 21800,
+    "loop": 0,
+    "all_frames_decoded": true
   }
 ]
