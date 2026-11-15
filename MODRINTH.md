@@ -1,5 +1,19 @@
 # MP4 для Modrinth
 
+## Сцена рождения Void Rift — 21,8 секунды
+
+Смонтированная катсцена без звука, 1280×640, 30 кадров/с. Скопируйте этот блок в описание:
+
+```html
+<video controls loop muted width="1280" poster="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/posters/void-rift-birth.jpg">
+  <source src="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/void-rift-birth.mp4" type="video/mp4">
+</video>
+```
+
+[Прямая ссылка на MP4](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/void-rift-birth.mp4)
+
+## Четыре коротких показа штормов
+
 Скопируйте содержимое блока кода в описание. У всех четырёх MP4 удалены аудиодорожки; видеопоток сохранён без перекодирования. Ссылки остались прежними.
 
 ```html

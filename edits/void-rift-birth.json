@@ -1,0 +1,52 @@
+{
+  "name": "void-rift-birth",
+  "title": "Void Rift — birth cutscene",
+  "source": {
+    "filename": "Minecraft 2026.11.15 - 14.51.51.07.mp4",
+    "sha256": "bfddebf7e28589f11d5a54660600946a94e23ec5a2c53163d661068d4b95c8bc",
+    "duration_seconds": 32.067411,
+    "width": 1280,
+    "height": 720
+  },
+  "edit": {
+    "source_start_seconds": 10.2,
+    "source_end_seconds_exclusive": 31.366667,
+    "crop": {
+      "x": 0,
+      "y": 40,
+      "width": 1280,
+      "height": 640
+    },
+    "fade_in_seconds": 0.2,
+    "final_caption_hold_seconds": 0.6,
+    "audio_removed": true,
+    "speed": 1.0
+  },
+  "video": {
+    "path": "video/void-rift-birth.mp4",
+    "bytes": 7795961,
+    "sha256": "40101ed697ea99e4cda40b1df56364087142d3459e304aea20a05a784593a51d",
+    "width": 1280,
+    "height": 640,
+    "fps": 30,
+    "duration_seconds": 21.8,
+    "frames": 654,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_streams": 0,
+    "decode_ok": true,
+    "max_frame_interval_ms": 33.33400000000353
+  },
+  "poster": {
+    "path": "posters/void-rift-birth.jpg",
+    "sha256": "aea6898d1e75498ad7a466e3bf30434fa24eb4890f1c45c0e53a54177ccfe1cf"
+  },
+  "qa": {
+    "detected_transitions": [
+      "black_start:6.466667 black_end:6.566667 black_duration:0.1",
+      "lavfi.freezedetect.freeze_start: 21.166667",
+      "black_start:21.1 black_end:21.766667 black_duration:0.666667"
+    ],
+    "notes": "Final fade to black and held final caption are intentional; the return to gameplay after the fade has been removed."
+  }
+}
