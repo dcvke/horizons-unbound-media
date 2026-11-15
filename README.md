@@ -14,7 +14,7 @@
 
 ![Void Rift — сцена рождения шторма](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/posters/void-rift-birth.jpg)
 
-GIF этой сцены для CurseForge: [960×480, 20 кадров/с, 28.42 MB](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth.gif) или [720×360, 15 кадров/с, 12.28 MB](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth-light.gif). Оба варианта содержат полные 21,8 секунды с бесконечным повтором. [Готовые вставки](CURSEFORGE.md).
+GIF этой сцены для CurseForge: [960×480, 20 кадров/с, 28.42 MB](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth.gif) или [720×360, 15 кадров/с, 12.28 MB](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth-light.gif). Оба варианта содержат полные 21,8 секунды с бесконечным повтором. [Готовые вставки](CURSEFORGE.md).
 
 ## Файлы
 
@@ -28,7 +28,7 @@ GIF этой сцены для CurseForge: [960×480, 20 кадров/с, 28.42 
 - `video/`: MP4 без аудиодорожек. Исходный видеопоток H.264 скопирован без перекодирования; качество, разрешение, число кадров и их временные метки сохранены. Ссылки на файлы остались прежними. Контейнеры пересобраны для удаления звука и быстрого начала воспроизведения.
 - `webp/`: анимированный WebP в исходном разрешении и с исходной частотой кадров, quality 92. Полный цвет, без звука, бесконечный повтор. Сжатие с потерями; исходное качество видеопотока сохраняется в MP4.
 - `webp-compact/`: WebP для описания страницы: 960×540, 20 кадров/с, quality 88.
-- `gif/`: GIF с адаптивной палитрой 256 цветов, dithering Sierra и оптимизацией Gifsicle без дополнительного lossy-сжатия.
+- `gif/`: четыре коротких показа штормов с адаптивной палитрой 256 цветов, dithering Sierra и оптимизацией Gifsicle без дополнительного lossy-сжатия. Для полной сцены `void-rift-birth` используются отдельная палитра каждого кадра и оптимизация Gifsicle lossy 20 (960 px) или 30 (720 px).
 - `gif-compact/`: GIF по 1,15–1,53 MB, 640×360, 15 кадров/с, Gifsicle lossy 30. Резерв для загрузчиков с небольшим лимитом.
 - `posters/`: статичные кадры из середины роликов.
 

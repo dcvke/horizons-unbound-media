@@ -8,24 +8,24 @@
 
 | Вариант | Размер кадра | Частота кадров | Вес | Прямая ссылка |
 |---|---|---|---|---|
-| Качество | 960×480 | 20 кадров/с | 28.42 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth.gif) |
-| Полегче | 720×360 | 15 кадров/с | 12.28 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth-light.gif) |
+| Качество | 960×480 | 20 кадров/с | 28.42 MB | [GIF](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth.gif) |
+| Полегче | 720×360 | 15 кадров/с | 12.28 MB | [GIF](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth-light.gif) |
 
 Для качественного варианта вставьте в Markdown:
 
 ```md
-![Void Rift — рождение шторма](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth.gif)
+![Void Rift — рождение шторма](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth.gif)
 ```
 
 Для облегчённого варианта:
 
 ```md
-![Void Rift — рождение шторма](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/void-rift-birth-light.gif)
+![Void Rift — рождение шторма](https://dcvke.github.io/horizons-unbound-media/gif/void-rift-birth-light.gif)
 ```
 
 В визуальном редакторе CurseForge откройте вставку изображения и поместите прямую ссылку GIF в поле URL/Source. Ширину качественного варианта можно установить до 960 px; облегчённого — до 720 px. Файлы размещены на GitHub, поэтому это вставка внешнего изображения. При загрузке файла с компьютера ограничения загрузчика CurseForge могут отличаться.
 
-В GIF используются адаптивная палитра 256 цветов и dithering Sierra для градиентов. Финальный кадр и задержки проверены: длительность сохранена, анимация повторяется бесконечно. Часть одинаковых кадров оптимизатор может объединять, сохраняя их суммарную задержку.
+Для каждого кадра GIF подобрана своя палитра до 256 цветов, с dithering Sierra для градиентов. Это сохраняет фиолетовое свечение даже при затемнении сцены. Финальный кадр и задержки проверены: длительность сохранена, анимация повторяется бесконечно. Часть одинаковых кадров оптимизатор может объединять, сохраняя их суммарную задержку.
 
 ## Качество: 960×540, 20 кадров/с
 
