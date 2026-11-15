@@ -1,10 +1,17 @@
 <p align="center"><img src="https://cdn.modrinth.com/data/cached_images/782f5cf4f7c1fb626daae6711ff4d354cae265af.png" alt="Horizons Unbound" width="780"></p>
 
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horizons-unbound"><img src="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/icons/curseforge_icon_bg.png" alt="CurseForge" title="CurseForge" width="64" height="64"></a>
+  <a href="https://github.com/dcvke/horizons-unbound"><img src="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/icons/github_icon_bg.png" alt="GitHub" title="GitHub" width="64" height="64"></a>
+  <a href="https://modrinth.com/project/horizonsunbound"><img src="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/icons/modrinth_icon_bg.png" alt="Modrinth" title="Modrinth" width="64" height="64"></a>
+  <img src="https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/icons/discord_icon_bg.png" alt="Discord (coming soon)" title="Discord (coming soon)" width="64" height="64">
+</p>
+
 # Horizons Unbound
 
 Dimensional storms drift across your world, carrying strange weather, creatures and pieces of somewhere else. Watch the horizon. The colour tells you what is coming.
 
-[Modrinth](https://modrinth.com/project/horizonsunbound) · [Downloads](https://github.com/dcvke/horizons-unbound/releases) · [Field guide](https://github.com/dcvke/horizons-unbound/blob/main/docs/wiki/Home.md)
+[Downloads](https://github.com/dcvke/horizons-unbound/releases) · [Field guide](https://github.com/dcvke/horizons-unbound/blob/main/docs/wiki/Home.md)
 
 ## The sky splits open
 
