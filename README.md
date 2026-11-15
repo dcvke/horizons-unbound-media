@@ -4,15 +4,15 @@
 
 ## Файлы
 
-| Шторм | Исходная длительность | Оригинал | WebP 1280×720, 30 fps | WebP 960×540, 20 fps | GIF 960×540, 20 fps | GIF 640×360, 15 fps |
+| Шторм | Исходная длительность | MP4 без звука | WebP 1280×720, 30 fps | WebP 960×540, 20 fps | GIF 960×540, 20 fps | GIF 640×360, 15 fps |
 |---|---|---|---|---|---|---|
 | Overworld — Thunder Funnel | 3.135 с | [MP4](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/overworld-storm.mp4) | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp/overworld-storm.webp), 3.07 MB | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp-compact/overworld-storm.webp), 1.11 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/overworld-storm.gif), 10.38 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif-compact/overworld-storm.gif), 1.33 MB |
 | End — Void Rift | 3.236 с | [MP4](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/end-storm.mp4) | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp/end-storm.webp), 2.79 MB | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp-compact/end-storm.webp), 1.01 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/end-storm.gif), 9.30 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif-compact/end-storm.gif), 1.25 MB |
 | Nether — Fire Twister | 3.066 с | [MP4](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/nether-storm.mp4) | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp/nether-storm.webp), 3.95 MB | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp-compact/nether-storm.webp), 1.43 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/nether-storm.gif), 9.16 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif-compact/nether-storm.gif), 1.53 MB |
 | Deep Dark — Deep Whisper | 3.167 с | [MP4](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/video/deep-dark-storm.mp4) | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp/deep-dark-storm.webp), 2.47 MB | [WebP](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/webp-compact/deep-dark-storm.webp), 0.88 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif/deep-dark-storm.gif), 5.54 MB | [GIF](https://raw.githubusercontent.com/dcvke/horizons-unbound-media/main/gif-compact/deep-dark-storm.gif), 1.15 MB |
 
-- `video/`: оригинальные MP4, побайтовые копии исходников; видео H.264, звук AAC. Дополнительного сжатия, масштабирования или монтажа нет.
-- `webp/`: анимированный WebP в исходном разрешении и с исходной частотой кадров, quality 92. Полный цвет, без звука, бесконечный повтор. Сжатие с потерями; математически идентичным источнику остаётся MP4.
+- `video/`: MP4 без аудиодорожек. Исходный видеопоток H.264 скопирован без перекодирования; качество, разрешение, число кадров и их временные метки сохранены. Ссылки на файлы остались прежними. Контейнеры пересобраны для удаления звука и быстрого начала воспроизведения.
+- `webp/`: анимированный WebP в исходном разрешении и с исходной частотой кадров, quality 92. Полный цвет, без звука, бесконечный повтор. Сжатие с потерями; исходное качество видеопотока сохраняется в MP4.
 - `webp-compact/`: WebP для описания страницы: 960×540, 20 кадров/с, quality 88.
 - `gif/`: GIF с адаптивной палитрой 256 цветов, dithering Sierra и оптимизацией Gifsicle без дополнительного lossy-сжатия.
 - `gif-compact/`: GIF по 1,15–1,53 MB, 640×360, 15 кадров/с, Gifsicle lossy 30. Резерв для загрузчиков с небольшим лимитом.
@@ -54,11 +54,11 @@ WebP передаёт свечение и градиенты лучше GIF и �
 
 Все четыре исходника успешно декодированы целиком. Размер: 1280×720, около 30 кадров/с. Чёрных вставок и зависаний длительностью 0,3 с или больше автоматическая проверка не обнаружила. Просмотрены начало, середина и конец каждой записи: кадр без HUD, цвет шторма соответствует названию файла.
 
-Длительности: 3,135 / 3,236 / 3,066 / 3,167 секунды. Это разные записи, а не четыре синхронные камеры. Для синхронного общего показа они не выровнены и не обрезаны. Аудио и видео начинаются в 0; аудиодорожки заканчиваются на 60–75 мс раньше видео. Эти метаданные не заменяют проверку синхронизации на слух; визуально различимого события для точного измерения AV-сдвига в записях нет. Звук тихий, без цифрового клиппинга.
+Длительности: 3,135 / 3,236 / 3,066 / 3,167 секунды. Это разные записи, а не четыре синхронные камеры. Для синхронного общего показа они не выровнены и не обрезаны. У всех четырёх опубликованных MP4 аудиодорожки удалены. Проверены совпадение сжатых видеопакетов с исходниками, временные метки каждого кадра и отсутствие аудиопотоков. При пересборке контейнера End округление длительности последнего кадра составило 11 микросекунд; остальные длительности совпали точно.
 
 Проверены декодирование всех анимационных кадров, бесконечный повтор, наличие разных кадров и сохранение длительности с отклонением меньше 50 мс. Контрольные суммы: [SHA256SUMS.txt](SHA256SUMS.txt). Метаданные: [manifest.json](manifest.json).
 
-Все 24 опубликованных медиафайла отвечают HTTP 200 без авторизации. Через публичные URL полностью скачаны четыре исходных MP4, четыре компактных GIF и четыре компактных WebP; все 12 контрольных сумм совпали. GIF, WebP и JPEG выдаются с правильными MIME-типами. Результат: [public-verification.json](public-verification.json).
+Все 24 опубликованных медиафайла отвечают HTTP 200 без авторизации. Через публичные URL полностью скачаны четыре MP4 без звука, четыре компактных GIF и четыре компактных WebP; все 12 контрольных сумм совпали. GIF, WebP и JPEG выдаются с правильными MIME-типами. Результат: [public-verification.json](public-verification.json). В `manifest.json` раздел `source` описывает исходную запись, а раздел `video` — опубликованный MP4 без звука.
 
 Начало и конец исходников не являются специально снятой бесшовной петлёй: небольшой переход при повторе возможен. Искусственная интерполяция и обратное воспроизведение не применялись.
 
