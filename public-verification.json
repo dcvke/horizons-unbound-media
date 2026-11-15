@@ -1,0 +1,182 @@
+[
+  {
+    "path": "gif/deep-dark-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "5540071",
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif/end-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "9295754",
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif/nether-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "9164642",
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif/overworld-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "10381511",
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif-compact/deep-dark-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "1154501",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif-compact/end-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "1248312",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif-compact/nether-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "1529786",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "gif-compact/overworld-storm.gif",
+    "status": 200,
+    "content_type": "image/gif",
+    "content_length": "1330428",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "posters/deep-dark-storm.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "content_length": "25250",
+    "expected_type_matches": true
+  },
+  {
+    "path": "posters/end-storm.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "content_length": "27082",
+    "expected_type_matches": true
+  },
+  {
+    "path": "posters/nether-storm.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "content_length": "35538",
+    "expected_type_matches": true
+  },
+  {
+    "path": "posters/overworld-storm.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "content_length": "29008",
+    "expected_type_matches": true
+  },
+  {
+    "path": "video/deep-dark-storm.mp4",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "content_length": "1604187",
+    "sha256_matches": true,
+    "expected_type_matches": false
+  },
+  {
+    "path": "video/end-storm.mp4",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "content_length": "1851984",
+    "sha256_matches": true,
+    "expected_type_matches": false
+  },
+  {
+    "path": "video/nether-storm.mp4",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "content_length": "1848940",
+    "sha256_matches": true,
+    "expected_type_matches": false
+  },
+  {
+    "path": "video/overworld-storm.mp4",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "content_length": "1878210",
+    "sha256_matches": true,
+    "expected_type_matches": false
+  },
+  {
+    "path": "webp/deep-dark-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "2471850",
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp/end-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "2787434",
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp/nether-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "3945686",
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp/overworld-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "3067844",
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp-compact/deep-dark-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "878262",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp-compact/end-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "1005382",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp-compact/nether-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "1430788",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  },
+  {
+    "path": "webp-compact/overworld-storm.webp",
+    "status": 200,
+    "content_type": "image/webp",
+    "content_length": "1108104",
+    "sha256_matches": true,
+    "expected_type_matches": true
+  }
+]
