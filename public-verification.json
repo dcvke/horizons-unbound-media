@@ -91,33 +91,41 @@
     "path": "video/deep-dark-storm.mp4",
     "status": 200,
     "content_type": "application/octet-stream",
-    "content_length": "1604187",
+    "content_length": "1527680",
     "sha256_matches": true,
-    "expected_type_matches": false
+    "expected_type_matches": false,
+    "audio_streams": 0,
+    "sha256": "c6265a9ca9b97d966c863762e14868c2b809046b73d52da7cce2d0dc5874241a"
   },
   {
     "path": "video/end-storm.mp4",
     "status": 200,
     "content_type": "application/octet-stream",
-    "content_length": "1851984",
+    "content_length": "1773703",
     "sha256_matches": true,
-    "expected_type_matches": false
+    "expected_type_matches": false,
+    "audio_streams": 0,
+    "sha256": "64613a68726139328ee7facbe81a74fa7887d47a5157978af187bf0d2429b645"
   },
   {
     "path": "video/nether-storm.mp4",
     "status": 200,
     "content_type": "application/octet-stream",
-    "content_length": "1848940",
+    "content_length": "1775156",
     "sha256_matches": true,
-    "expected_type_matches": false
+    "expected_type_matches": false,
+    "audio_streams": 0,
+    "sha256": "9e077a5c6397657700226038030f148e78dc582565f81fcfdaf67d065d0570c2"
   },
   {
     "path": "video/overworld-storm.mp4",
     "status": 200,
     "content_type": "application/octet-stream",
-    "content_length": "1878210",
+    "content_length": "1802309",
     "sha256_matches": true,
-    "expected_type_matches": false
+    "expected_type_matches": false,
+    "audio_streams": 0,
+    "sha256": "2c5ad34756b47e981ee4a034d02e5b4fe7a0591981823f65a351382259c58e79"
   },
   {
     "path": "webp/deep-dark-storm.webp",
