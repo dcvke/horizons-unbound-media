@@ -186,5 +186,24 @@
     "content_length": "1108104",
     "sha256_matches": true,
     "expected_type_matches": true
+  },
+  {
+    "path": "video/void-rift-birth.mp4",
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "content_length": "7795961",
+    "sha256_matches": true,
+    "sha256": "40101ed697ea99e4cda40b1df56364087142d3459e304aea20a05a784593a51d",
+    "audio_streams": 0,
+    "duration_seconds": 21.8,
+    "decode_ok": true
+  },
+  {
+    "path": "posters/void-rift-birth.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "content_length": "54062",
+    "sha256_matches": true,
+    "sha256": "aea6898d1e75498ad7a466e3bf30434fa24eb4890f1c45c0e53a54177ccfe1cf"
   }
 ]
