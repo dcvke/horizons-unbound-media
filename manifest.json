@@ -1,0 +1,282 @@
+[
+  {
+    "name": "overworld-storm",
+    "title": "Overworld — Thunder Funnel",
+    "source": {
+      "source": "Minecraft 2026.11.15 - 13.26.00.02.mp4",
+      "bytes": 1878210,
+      "sha256": "b54c2131157e4b959f708d08759302f7f3e9264af534ba6df384c765a3b0061e",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "video_seconds": 3.134833,
+      "audio_seconds": 3.074354,
+      "audio_start": 0.0,
+      "video_start": 0.0,
+      "frames": 94,
+      "min_frame_interval_ms": 32.2,
+      "max_frame_interval_ms": 34.96599999999983,
+      "decode_ok": true,
+      "metrics": [
+        "[Parsed_volumedetect_0 @ 000001b9beb4b500] mean_volume: -39.0 dB",
+        "[Parsed_volumedetect_0 @ 000001b9beb4b500] max_volume: -23.2 dB"
+      ]
+    },
+    "images": [
+      {
+        "path": "webp/overworld-storm.webp",
+        "bytes": 3067844,
+        "width": 1280,
+        "height": 720,
+        "frames": 94,
+        "duration_ms": 3133,
+        "loop": 0,
+        "unique_frames": 94,
+        "sha256": "8fda742866e06b4d478b5c4488366cd6e974c4f1d8f3e13a6162f0be7a39083d"
+      },
+      {
+        "path": "webp-compact/overworld-storm.webp",
+        "bytes": 1108104,
+        "width": 960,
+        "height": 540,
+        "frames": 63,
+        "duration_ms": 3150,
+        "loop": 0,
+        "unique_frames": 63,
+        "sha256": "b7bf6062cf7481cf9b35c07c6431624dff114f5a050e7b93f326e08295f9690b"
+      },
+      {
+        "path": "gif/overworld-storm.gif",
+        "bytes": 10381511,
+        "width": 960,
+        "height": 540,
+        "frames": 63,
+        "duration_ms": 3150,
+        "loop": 0,
+        "unique_frames": 63,
+        "sha256": "35a4e2562ec5bc303acd2934c9f0006acb6c8c55b2a1e3ec68bf9e15cf21698b"
+      },
+      {
+        "path": "gif-compact/overworld-storm.gif",
+        "bytes": 1330428,
+        "width": 640,
+        "height": 360,
+        "frames": 47,
+        "duration_ms": 3140,
+        "loop": 0,
+        "unique_frames": 47,
+        "sha256": "f2529061e94f5d4b2849a75d593ebddbf2a47136f6ecbbdc333662da5a2233bf"
+      }
+    ]
+  },
+  {
+    "name": "end-storm",
+    "title": "End — Void Rift",
+    "source": {
+      "source": "Minecraft 2026.11.15 - 13.26.34.03.mp4",
+      "bytes": 1851984,
+      "sha256": "5c98c2a26a8ba894e6ac3d4cab1427b55fd813968edd23a0cb5819decad3649e",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "video_seconds": 3.236278,
+      "audio_seconds": 3.167792,
+      "audio_start": 0.0,
+      "video_start": 0.0,
+      "frames": 97,
+      "min_frame_interval_ms": 31.576999999999966,
+      "max_frame_interval_ms": 34.88900000000006,
+      "decode_ok": true,
+      "metrics": [
+        "[Parsed_volumedetect_0 @ 0000026b3b0f5900] mean_volume: -33.1 dB",
+        "[Parsed_volumedetect_0 @ 0000026b3b0f5900] max_volume: -20.3 dB"
+      ]
+    },
+    "images": [
+      {
+        "path": "webp/end-storm.webp",
+        "bytes": 2787434,
+        "width": 1280,
+        "height": 720,
+        "frames": 97,
+        "duration_ms": 3233,
+        "loop": 0,
+        "unique_frames": 97,
+        "sha256": "70ef64f82925974de54847d2c0526ac7ebbe17a22280c2126962ae387fe907ba"
+      },
+      {
+        "path": "webp-compact/end-storm.webp",
+        "bytes": 1005382,
+        "width": 960,
+        "height": 540,
+        "frames": 65,
+        "duration_ms": 3250,
+        "loop": 0,
+        "unique_frames": 65,
+        "sha256": "dcdda9f8d5f95036f8a46b6fb9508397695490af1ae790453ec339b99253cf25"
+      },
+      {
+        "path": "gif/end-storm.gif",
+        "bytes": 9295754,
+        "width": 960,
+        "height": 540,
+        "frames": 65,
+        "duration_ms": 3250,
+        "loop": 0,
+        "unique_frames": 65,
+        "sha256": "fc3097e9aebbd14a15d978ddd3f66e0795bdcadc26561c4217b048c24830a451"
+      },
+      {
+        "path": "gif-compact/end-storm.gif",
+        "bytes": 1248312,
+        "width": 640,
+        "height": 360,
+        "frames": 49,
+        "duration_ms": 3270,
+        "loop": 0,
+        "unique_frames": 49,
+        "sha256": "9b6dc65b8f6e3a9c0e8b9cf5f4a1e177e468340fe729dffe70d05d4585c1d2e3"
+      }
+    ]
+  },
+  {
+    "name": "nether-storm",
+    "title": "Nether — Fire Twister",
+    "source": {
+      "source": "Minecraft 2026.11.15 - 13.27.10.04.mp4",
+      "bytes": 1848940,
+      "sha256": "9ad33a0746826debc4dc171e72e64c17471d0d92c774ac25b485d14bc6eedd54",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "video_seconds": 3.065778,
+      "audio_seconds": 2.991188,
+      "audio_start": 0.0,
+      "video_start": 0.0,
+      "frames": 92,
+      "min_frame_interval_ms": 31.754999999999978,
+      "max_frame_interval_ms": 34.87800000000002,
+      "decode_ok": true,
+      "metrics": [
+        "[Parsed_volumedetect_0 @ 000002277bc3e200] mean_volume: -46.1 dB",
+        "[Parsed_volumedetect_0 @ 000002277bc3e200] max_volume: -33.2 dB"
+      ]
+    },
+    "images": [
+      {
+        "path": "webp/nether-storm.webp",
+        "bytes": 3945686,
+        "width": 1280,
+        "height": 720,
+        "frames": 92,
+        "duration_ms": 3066,
+        "loop": 0,
+        "unique_frames": 92,
+        "sha256": "6300cd62fa6c111e1c6b0041e75eb0e6abc72d28644baec2b35ac453fbe8c15c"
+      },
+      {
+        "path": "webp-compact/nether-storm.webp",
+        "bytes": 1430788,
+        "width": 960,
+        "height": 540,
+        "frames": 61,
+        "duration_ms": 3050,
+        "loop": 0,
+        "unique_frames": 61,
+        "sha256": "9d7dc4422b0120c6c970befe8013f29fc567260d67c990acf5774cde3ff606f5"
+      },
+      {
+        "path": "gif/nether-storm.gif",
+        "bytes": 9164642,
+        "width": 960,
+        "height": 540,
+        "frames": 61,
+        "duration_ms": 3050,
+        "loop": 0,
+        "unique_frames": 61,
+        "sha256": "7f3c032398acd56fcd331025c32290daa3dcfb3003aa7caeff3eade027e786dd"
+      },
+      {
+        "path": "gif-compact/nether-storm.gif",
+        "bytes": 1529786,
+        "width": 640,
+        "height": 360,
+        "frames": 46,
+        "duration_ms": 3070,
+        "loop": 0,
+        "unique_frames": 46,
+        "sha256": "9ebe9824ca769d3a49aa648c00cc4a2e8ae0850ba2571cd2e7ca5ad02d3459b9"
+      }
+    ]
+  },
+  {
+    "name": "deep-dark-storm",
+    "title": "Deep Dark — Deep Whisper",
+    "source": {
+      "source": "Minecraft 2026.11.15 - 13.27.50.06.mp4",
+      "bytes": 1604187,
+      "sha256": "f29ec372721a3d16d996dc95be54325bf0cc101b1079e13c79cb37c3c76b8d27",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "video_seconds": 3.167144,
+      "audio_seconds": 3.091958,
+      "audio_start": 0.0,
+      "video_start": 0.0,
+      "frames": 95,
+      "min_frame_interval_ms": 31.966999999999857,
+      "max_frame_interval_ms": 35.10000000000002,
+      "decode_ok": true,
+      "metrics": [
+        "[Parsed_volumedetect_0 @ 00000223f7e9c1c0] mean_volume: -44.2 dB",
+        "[Parsed_volumedetect_0 @ 00000223f7e9c1c0] max_volume: -31.9 dB"
+      ]
+    },
+    "images": [
+      {
+        "path": "webp/deep-dark-storm.webp",
+        "bytes": 2471850,
+        "width": 1280,
+        "height": 720,
+        "frames": 95,
+        "duration_ms": 3166,
+        "loop": 0,
+        "unique_frames": 95,
+        "sha256": "3d11d4408bf1f71651da172c07cee4a3d9fc6ad9bd8c9f61fcd4bc3295954a67"
+      },
+      {
+        "path": "webp-compact/deep-dark-storm.webp",
+        "bytes": 878262,
+        "width": 960,
+        "height": 540,
+        "frames": 63,
+        "duration_ms": 3150,
+        "loop": 0,
+        "unique_frames": 63,
+        "sha256": "02619343a8b56dd668580bd17e6948062105f9d405e309419725ce259afa3169"
+      },
+      {
+        "path": "gif/deep-dark-storm.gif",
+        "bytes": 5540071,
+        "width": 960,
+        "height": 540,
+        "frames": 63,
+        "duration_ms": 3150,
+        "loop": 0,
+        "unique_frames": 63,
+        "sha256": "b57428c7efb6ec44e9a788deaeaad025a8b56c704028e094a3618997c82faa02"
+      },
+      {
+        "path": "gif-compact/deep-dark-storm.gif",
+        "bytes": 1154501,
+        "width": 640,
+        "height": 360,
+        "frames": 48,
+        "duration_ms": 3200,
+        "loop": 0,
+        "unique_frames": 48,
+        "sha256": "2be3310f15bdd08e4262c4945b73effbe49ff1114c785401bf40935d268f10fa"
+      }
+    ]
+  }
+]
